@@ -1,0 +1,38 @@
+body{
+
+	background-image: url("background1.JPG");
+	background-repeat: no-repeat;
+	background-size: cover;
+	color: white;
+
+
+}
+caption{
+	border: solid;
+	border-collapse: collapse;
+}
+table{
+	border: solid;
+	border-collapse: collapse;
+}
+td{
+	border: solid;
+	border-collapse: collapse; 
+}
+.kotakin{
+	margin: 100px 300px 60px 300px;
+    padding: 30px;
+    background-image: url("bgwebku.JPG");
+    border-radius: 20px;
+
+}
+input,textarea{
+	border-radius: 40px;
+
+}
+label{
+	background: black; 
+	font-weight: italic;
+	font-family: evogria; 
+	font-variant: small-caps; 
+}
